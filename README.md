@@ -27,6 +27,6 @@ python imageStream.py
 ```
 
 3. The script will connect to CoppeliaSim, retrieve images from the specified vision sensor, and display them in a window using OpenCV.
-4. Press any key to exit the image display window.
+4. Press q to exit the image display window.
 5. The script will clean up and close the connection to CoppeliaSim upon exit.
 6. Make sure to adjust the `visionSensorName` variable in the script to match the name of your vision sensor in CoppeliaSim.
